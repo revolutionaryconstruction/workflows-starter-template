@@ -4,7 +4,8 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "workflows-starter-template",
+	// wrangler.jsonc
+    "name": "revolutionary-construction",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-10-08",
 	"assets": {
